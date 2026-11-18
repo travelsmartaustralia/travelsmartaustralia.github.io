@@ -66,3 +66,11 @@ V3 SEARCH HUB NOTES
 - Hotel search opens a Booking.com public search URL with destination, dates and guest count. It is NOT an affiliate link and does not include tracking.
 - Flight search opens Google Flights. It does not display live results inside this website.
 - Insurance and eSIM sections are informational links only; no provider endorsement or affiliate relationship is claimed.
+
+
+VERSION 4 PROFESSIONAL EDITION
+New: hotels.html, blog.html and 3 original practical travel articles. All pages now link to the new sections in navigation.
+IMPORTANT: Upload the CONTENTS of this folder to the repository root, not the enclosing folder or ZIP. Replace existing files when prompted.
+This is an informational affiliate-ready site, not a live booking engine. Booking.com search links are non-affiliate until authorised tracking links are obtained. Review privacy/disclosure text for your actual practices before promoting.
+
+VERSION 5: Added 20 destination guide pages (23 total), expanded destination region filters, and homepage link. Guides are editorial starting points; review for accuracy and add original photos and local detail before affiliate applications.
