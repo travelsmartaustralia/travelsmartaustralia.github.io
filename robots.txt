@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://travelsmartaustralia.github.io/sitemap.xml
